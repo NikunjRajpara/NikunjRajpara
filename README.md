@@ -1,5 +1,8 @@
 ## Hi there, I'm Nikunj Rajpara! 👋
-"C:\Users\Lenovo\Downloads\Profile Banner.gif"    
+
+![Final Profile Banner](https://github.com/user-attachments/assets/59809d71-f7d4-4f1c-9707-f8aa1c7e0107)
+
+
 
 I'm a Computer Engineering student at Marwadi University, passionate about exploring how technology works and bringing ideas to life through hands-on development. With a strong foundation, I am sharpening my skills as a MERN Stack Developer Intern at BrainyBeam Technologies.
 
