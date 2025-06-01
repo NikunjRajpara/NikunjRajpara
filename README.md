@@ -48,7 +48,7 @@ ________________________________________________________________________________
   ✅ Cross-platform   
   ✅ Firebase authentication + secure data handling  
 
-🔹 Repository: [GitHub Link](https://github.com/NikunjRajpara/PrepDesk)
+🔹 Repository: [GitHub Link](https://github.com/NikunjRajpara/prepdesk)
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
