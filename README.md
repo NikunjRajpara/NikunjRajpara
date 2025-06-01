@@ -40,7 +40,9 @@ ________________________________________________________________________________
 💻 PrepDesk - Online Exam System
 
 🔹 Description: A modern online MCQ exam platform with subject-wise tests and dynamic question shuffling.
+
 🔹 Key Features:
+
   ✅ Subject-wise static exams  
   ✅ Randomized MCQs on every login  
   ✅ Cross-platform   
