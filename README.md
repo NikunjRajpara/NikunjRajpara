@@ -1,8 +1,6 @@
 ## Hi there, I'm Nikunj Rajpara! 👋
 
-![Final Profile Banner](https://github.com/user-attachments/assets/59809d71-f7d4-4f1c-9707-f8aa1c7e0107)
-
-
+![Banner](https://github.com/user-attachments/assets/71984141-5285-4a42-8c68-7da49e2d0abc)
 
 I'm a Computer Engineering student at Marwadi University, passionate about exploring how technology works and bringing ideas to life through hands-on development. With a strong foundation, I am sharpening my skills as a MERN Stack Developer Intern at BrainyBeam Technologies.
 
@@ -11,18 +9,52 @@ I'm a Computer Engineering student at Marwadi University, passionate about explo
  I’m actively seeking internship opportunities in software development and tech-driven roles where I can grow, collaborate, and make an impact.
 
 Let’s connect!
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<!--
-**NikunjRajpara/NikunjRajpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+--------------
+🎓 Degree: Pursuing the final year of B.Tech in Computer Engineering
 
-Here are some ideas to get you started:
+👩🏻‍💻 Expertise: MERN Stack | FLUTTER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍🏻 Currently Learning: WordPress Development
+
+✨ Hobbies: Open-Source Contributions
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+🌐 Tech Stack
+--------------
+Programming Languages: C, C++, PHP, HTML, CSS, JavaScript, SQL, Dart
+
+Libraries/Frameworks: React, Bootstrap, Flutter 
+
+Tools/Platforms: VS Code, Git, GitHub
+
+Databases: MySQL, Firebase, Oracle
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+📁 Projects
+--------------
+💻 PrepDesk - Online Exam System
+
+🔹 Description: A modern online MCQ exam platform with subject-wise tests and dynamic question shuffling.
+🔹 Key Features:
+  ✅ Subject-wise static exams  
+  ✅ Randomized MCQs on every login  
+  ✅ Cross-platform   
+  ✅ Firebase authentication + secure data handling  
+
+🔹 Repository: [GitHub Link](https://github.com/NikunjRajpara/PrepDesk)
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+🌐 Connect with Me
+--------------
+🔗 [LinkedIn](https://www.linkedin.com/in/nikunj-rajpara-4628a0247)  
+✉️ [Email Me](mailto:nikunjrajpara29@gmail.com)
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+💼 Actively seeking tech opportunities to contribute, grow, and help your team deliver impactful solutions. Let’s connect! 🚀
