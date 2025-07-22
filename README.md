@@ -1,7 +1,5 @@
 ## Hi there, I'm Nikunj Rajpara! 👋
 
-![Banner](https://github.com/user-attachments/assets/71984141-5285-4a42-8c68-7da49e2d0abc)
-
 I'm a Computer Engineering student at Marwadi University, passionate about exploring how technology works and bringing ideas to life through hands-on development. With a strong foundation, I am sharpening my skills as a MERN Stack Developer Intern at BrainyBeam Technologies.
 
  I thrive on turning ideas into functional, scalable solutions. With hands-on experience and a solid understanding, I am now expanding my horizons into open-source development. I’ve learned the importance of clean code, version control, and team collaboration — all principles I carry into every project.
