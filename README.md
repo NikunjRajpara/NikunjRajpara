@@ -66,17 +66,17 @@ ________________________________________________________________________________
 -------------
 💻 My Meds – Online Pharmacy Store
 
-🔹 Description: A full-featured WordPress e-commerce website offering medicine ordering, product filtering, and enhanced UI/UX for a smooth customer experience.
+🔹 Description: My Meds is a mobile online pharmacy application built with Flutter and Firebase. It provides a seamless user experience for browsing, searching, and purchasing medicines , featuring secure authentication, real-time cart management, and order history tracking.
 
 🔹 Key Features:
 
-  ✅ Register/Login, cart and order tracking    
-  ✅ Speed optimization with LiteSpeed Cache     
-  ✅ Responsive design using the Woostify theme    
-  ✅ Built with WooCommerce, Elementor, Contact Form 7, and TI Wishlist    
+  ✅ Developed a pharmacy application enabling users to browse, search, and purchase medicines seamlessly.  
+  ✅ Implemented secure login/signup using Firebase Authentication and real-time cart & order management
+      with Firestore.     
+  ✅ Built features like product categories, checkout with simulated UPI payment, and order history tracking.
+  ✅ Focused on clean UI design, responsive layouts, and smooth navigation for a user-friendly experience.    
 
-🔹 Live Demo: [My Meds](https://mymeds.42web.io)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🌐 Connect with Me
 --------------
